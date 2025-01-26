@@ -1,4 +1,4 @@
-# Keylogger
+<h1>Keylogger</h1>
 <h2>I CREATE THIS PROGRAM JUST FOR EDUCATIONAL PURPOSES</h2>
 
 A simple keylogger that create a file named "key.txt" and register the keys that you press.<br>
